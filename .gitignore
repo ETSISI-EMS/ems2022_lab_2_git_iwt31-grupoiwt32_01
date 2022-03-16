@@ -29,5 +29,9 @@ dependency-reduced-pom.xml
 *.iws
 *.idea
 
+#Carpeta sandbox
+
+Sandbox/
+
 README.html
 application.properties
